@@ -10,4 +10,7 @@ Bu süreler datasheet de max 621 Hz olarak verilmiþtir.
 
 1/f ten T süresi hesaplanýldý.
 
+ESC için siyah GND. Beyaz Data bus seçildi.
+
+
 
